@@ -41,7 +41,7 @@
                 },
                 {
                     "title": "Portfolio",
-                    "mainBody": "<b><size=24>Portfolio</size></b>: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site revolves around tying animations to the normalized position of the scrollrect or its normalized position in the view rect.\nContent is currently stored in scriptable objects, but would be better delivered via a loaded JSON file.\n",
+                    "mainBody": "<b><size=24>Portfolio</size></b>: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site cleanly animates content in based on its position in the viewrect or the current scroll position.\nContent is created at runtime and loaded from an external JSON file\n",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Portfolio.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/frogboffin/portfolio",
