@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "title": "Pelago",
-                    "mainBody": "<b>Pelago Gen v3</b>: A fast seeded terrain generator\nThe current version uses a random walk variation to generate a heightmap and applies it to a terrain.  Created a custom URP shader for the terrain using hlsl programming.",
+                    "mainBody": "<b><size=24>Pelago Gen v3</size></b>: A fast seeded terrain generator\nThe current version uses a random walk variation to generate a heightmap and applies it to a terrain.  Created a custom URP shader for the terrain using hlsl programming.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Pelago.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/frogboffin/TileGen",
@@ -14,7 +14,7 @@
                 },
                 {
                     "title": "Flip",
-                    "mainBody": "<b><size=32>Flip</size></b>: A small personal game currently in development\nA side scrolling platformer with pinball flair! When a sneaky crocodile steals Flippy's birthday cake, he hops beyond the pond to get it back. Currently exploring 2d sprite shapes and the new unity input package.",
+                    "mainBody": "<b><size=24>Flip</size></b>: A small personal game currently in development\nA side scrolling platformer with pinball flair! When a sneaky crocodile steals Flippy's birthday cake, he hops beyond the pond to get it back. Currently exploring 2d sprite shapes and the new unity input package.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Flip.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/frogboffin/Flip",
@@ -55,7 +55,7 @@
             "entries": [
                 {
                     "title": "Immerse App",
-                    "mainBody": "<b><size=20>Immerse App</size></b>\nAt Immerse, I helped build the frontend VR launcher used to access training apps on the platform. The app handled user authentication, session tracking, and launched the correct training content with the required multiplayer or reporting features enabled. I worked on integrating SDK systems like UI, networking, and passthrough app support, making the launcher a reliable entry point for both internal teams and clients. It became the standard starting point for most VR sessions delivered through the platform.",
+                    "mainBody": "<b><size=24>Immerse App</size></b>\nAt Immerse, I helped build the frontend VR launcher used to access training apps on the platform. The app handled user authentication, session tracking, and launched the correct training content with the required multiplayer or reporting features enabled. I worked on integrating SDK systems like UI, networking, and passthrough app support, making the launcher a reliable entry point for both internal teams and clients. It became the standard starting point for most VR sessions delivered through the platform.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20App.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "",
@@ -64,7 +64,7 @@
                 },
                 {
                     "title": "ImmerseSDK",
-                    "mainBody": "<b><size=24>Immerse SDK:</size></b> Core systems for UI, multiplayer, and analytics\nI was heavily involved in shaping the ImmerseSDK, building tools and systems that became core to how apps were developed. I put together a UI theming and layout package that made it easier for teams to create consistent, polished interfaces. I also worked on multiplayer features, making sure interactions and UI stayed in sync across users, and helped build out reporting systems so app activity could be recorded. These tools were used across a wide range of projects and made development faster and more reliable.",
+                    "mainBody": "<b><size=24>Immerse SDK</size></b>\nI was heavily involved in shaping the ImmerseSDK, building tools and systems that became core to how apps were developed. I put together a UI theming and layout package that made it easier for teams to create consistent, polished interfaces. I also worked on multiplayer features, making sure interactions and UI stayed in sync across users, and helped build out reporting systems so app activity could be recorded. These tools were used across a wide range of projects and made development faster and more reliable.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "",
@@ -82,7 +82,7 @@
                 },
                 {
                     "title": "SES",
-                    "mainBody": "<b><size=20>SES</size></b>\nAlso at Bloc Digital, I developed a VR training simulation for Rolls Royce, centred on the disassembly of a Trent XWB engine using a split engine stand. The project was designed to train aerospace technicians across the globe in a realistic, controlled virtual environment. I built core interaction systems, enabling precise part handling and guided disassembly steps, while closely collaborating with engineering teams to ensure technical accuracy. This year long project was one of the studio's most complex training tools, helping to improve both safety and efficiency in engine maintenance procedures.",
+                    "mainBody": "<b><size=24>SES</size></b>\nBuilt a detailed VR training simulation in Unity for aerospace technicians, focusing on the disassembly of a Trent XWB engine. Developed custom interaction and step based guided statemachine. This was one of the studio’s most technically ambitious projects.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/SES.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "",
@@ -105,7 +105,7 @@
                 },
                 {
                     "title": "Floating UI Handle",
-                    "mainBody": "<b><size=28>Floating UI Handle</size></b>\nA floating UI handle for use with the XR Interactor Toolkit.\nAllows a UI gameobject to be grabbable and always face the user head. Useful for positioning UI in VR.",
+                    "mainBody": "<b><size=24>Floating UI Handle</size></b>\nA floating UI handle for use with the XR Interactor Toolkit.\nAllows a UI gameobject to be grabbable and always face the user head. Useful for positioning UI in VR.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/FloatingUI.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/-/snippets/4844406",
@@ -114,7 +114,7 @@
                 },
                 {
                     "title": "UI Mesh Gradient",
-                    "mainBody": "<b><size=28>UI Mesh Gradient</size></b>\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.",
+                    "mainBody": "<b><size=24>UI Mesh Gradient</size></b>\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gradient.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/-/snippets/4844692",
