@@ -41,7 +41,7 @@
                 },
                 {
                     "title": "Portfolio",
-                    "mainBody": "<b><size=24>Portfolio</size></b>: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site cleanly animates content in based on its position in the viewrect or the current scroll position.\nContent is loaded at runtime from an external JSON, allowing the site to be updated without rebuilding.\n",
+                    "mainBody": "<b><size=24>Portfolio</size></b>: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site cleanly animates content in based on its position in the viewrect or the current scroll position.\nContent is loaded at runtime from an external JSON, allowing the site to be updated without rebuilding.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Portfolio.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/frogboffin/portfolio",
@@ -64,7 +64,7 @@
                 },
                 {
                     "title": "ImmerseSDK",
-                    "mainBody": "<b><size=24>Immerse SDK:</size></b> Core systems for UI, multiplayer, and analytics\nI was heavily involved in shaping the ImmerseSDK, building tools and systems that became core to how apps were developed. I put together a UI theming and layout package that made it easier for teams to create consistent, polished interfaces. I also worked on multiplayer features, making sure interactions and UI stayed in sync across users, and helped build out reporting systems so app activity could be recorded. These tools were used across a wide range of projects and made development faster and more reliable.\n",
+                    "mainBody": "<b><size=24>Immerse SDK:</size></b> Core systems for UI, multiplayer, and analytics\nI was heavily involved in shaping the ImmerseSDK, building tools and systems that became core to how apps were developed. I put together a UI theming and layout package that made it easier for teams to create consistent, polished interfaces. I also worked on multiplayer features, making sure interactions and UI stayed in sync across users, and helped build out reporting systems so app activity could be recorded. These tools were used across a wide range of projects and made development faster and more reliable.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "",
@@ -114,7 +114,7 @@
                 },
                 {
                     "title": "UI Mesh Gradient",
-                    "mainBody": "<b><size=28>UI Mesh Gradient</size></b>\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.\n\n",
+                    "mainBody": "<b><size=28>UI Mesh Gradient</size></b>\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gradient.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/-/snippets/4844692",
