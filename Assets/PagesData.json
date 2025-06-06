@@ -73,7 +73,7 @@
                 },
                 {
                     "title": "Made in Derby",
-                    "mainBody": "<b><size=24>Made in Derby</size></b>\nAt Bloc Digital, I created the Made in Derby AR app, a location based experience developed for the city council to highlight local figures and landmarks. The app used AR markers placed around the city, which users could scan to view animated 3D statues and read about their history. I handled the full development cycle - from Unity setup and marker tracking with Vuforia, to app store deployment on both iOS and Android making it one of the studios first publicly released mobile AR projects.",
+                    "mainBody": "<b><size=24>Made in Derby</size></b>\nAt Bloc Digital, I developed Made in Derby, a location-based AR app for iOS and Android. Using Vuforia for marker tracking in Unity, the app let users scan city landmarks to view animated 3D statues and learn their history. I handled the entire dev cycle, from setup to appstore deployment.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Made%20in%20Derby.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "",
