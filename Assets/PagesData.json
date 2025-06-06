@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "Climb",
-                    "mainBody": "<b><size=24>Climb</size></b>: An Unreal Engine 4 game demo developed as part of a final year team project at Derby University.\nMy contributions to the project include developing the character controller, including the ability to swap abilities, ledge grabbing and grapple hook behaviours in C++. I also contributed to the level designs and physics setup of objects in each level.\nThe game was shown during the 2017 University of Derby Games Expo, and won the Technical Achievement award for that year.",
+                    "mainBody": "<b><size=24>Climb</size></b>: An Unreal Engine 4 game demo developed as part of a final year team project at Derby University.\nMy contributions to the project include developing the character controller, including the ability to swap abilities, ledge grabbing and grapple hook behaviours in C++.\nThe game was shown during the 2017 University of Derby Games Expo, and won the Technical Achievement award for that year.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Climb.png",
                     "sourceUrlName": "Source",
                     "sourceUrl": "https://gitlab.com/frogboffin/Eros",
