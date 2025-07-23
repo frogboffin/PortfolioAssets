@@ -1,6 +1,47 @@
 {
     "pages": [
         {
+            "name": "Work",
+            "entries": [
+                {
+                    "title": "Immerse App",
+                    "mainBody": "<b><size=24>Immerse App</size></b>\nAt Immerse, I helped build the VR launcher app for Android, managing authentication, session tracking, and launching training apps with multiplayer and reporting features. I integrated UI, networking, and passthrough support. This launcher provided seamless access to both single and multiplayer sessions, supporting real-time interaction and data reporting.",
+                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20App.png",
+                    "sourceUrlName": "Source",
+                    "sourceUrl": "",
+                    "extraUrlName": "Web App",
+                    "extraUrl": ""
+                },
+                {
+                    "title": "ImmerseSDK",
+                    "mainBody": "<b><size=24>Immerse SDK</size></b>\nI contributed significantly to the development of the ImmerseSDK, creating Unity packages and tools that streamlined app development. This included a UI theming package for polished interfaces, multiplayer features to synchronize interactions and UI across users, and reporting systems to track app usage. These tools were used on 40+ projects, allowing rapid development and delivery.",
+                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
+                    "sourceUrlName": "Source",
+                    "sourceUrl": "",
+                    "extraUrlName": "Web App",
+                    "extraUrl": ""
+                },
+                {
+                    "title": "Made in Derby",
+                    "mainBody": "<b><size=24>Made in Derby</size></b>\nAt Bloc Digital, I developed Made in Derby, a location-based AR app for iOS and Android. Using Vuforia for marker tracking in Unity, the app let users scan city landmarks to view animated 3D statues and learn their history. I handled the entire dev cycle, from setup to appstore deployment.",
+                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Made%20in%20Derby.png",
+                    "sourceUrlName": "Source",
+                    "sourceUrl": "",
+                    "extraUrlName": "News",
+                    "extraUrl": "https://www.bbc.co.uk/news/uk-england-derbyshire-44100615"
+                },
+                {
+                    "title": "SES",
+                    "mainBody": "<b><size=24>SES</size></b>\nBuilt a detailed VR training simulation in Unity for aerospace technicians, focusing on the disassembly of a Trent XWB engine. Developed custom interaction and step based guided statemachine. This was one of the studio’s most technically ambitious projects.",
+                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/SES.png",
+                    "sourceUrlName": "Source",
+                    "sourceUrl": "",
+                    "extraUrlName": "Video",
+                    "extraUrl": "https://www.youtube.com/watch?v=He9TFbecYD8"
+                }
+            ]
+        },
+        {
             "name": "Projects",
             "entries": [
                 {
@@ -47,47 +88,6 @@
                     "sourceUrl": "https://gitlab.com/frogboffin/portfolio",
                     "extraUrlName": "Web App",
                     "extraUrl": "https://www.pcuffley.co.uk/"
-                }
-            ]
-        },
-        {
-            "name": "Work",
-            "entries": [
-                {
-                    "title": "Immerse App",
-                    "mainBody": "<b><size=24>Immerse App</size></b>\nAt Immerse, I helped build the VR launcher app for Android, managing authentication, session tracking, and launching training apps with multiplayer and reporting features. I integrated UI, networking, and passthrough support. This launcher provided seamless access to both single and multiplayer sessions, supporting real-time interaction and data reporting.",
-                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20App.png",
-                    "sourceUrlName": "Source",
-                    "sourceUrl": "",
-                    "extraUrlName": "Web App",
-                    "extraUrl": ""
-                },
-                {
-                    "title": "ImmerseSDK",
-                    "mainBody": "<b><size=24>Immerse SDK</size></b>\nI contributed significantly to the development of the ImmerseSDK, creating Unity packages and tools that streamlined app development. This included a UI theming package for polished interfaces, multiplayer features to synchronize interactions and UI across users, and reporting systems to track app usage. These tools were used on 40+ projects, allowing rapid development and delivery.",
-                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
-                    "sourceUrlName": "Source",
-                    "sourceUrl": "",
-                    "extraUrlName": "Web App",
-                    "extraUrl": ""
-                },
-                {
-                    "title": "Made in Derby",
-                    "mainBody": "<b><size=24>Made in Derby</size></b>\nAt Bloc Digital, I developed Made in Derby, a location-based AR app for iOS and Android. Using Vuforia for marker tracking in Unity, the app let users scan city landmarks to view animated 3D statues and learn their history. I handled the entire dev cycle, from setup to appstore deployment.",
-                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Made%20in%20Derby.png",
-                    "sourceUrlName": "Source",
-                    "sourceUrl": "",
-                    "extraUrlName": "News",
-                    "extraUrl": "https://www.bbc.co.uk/news/uk-england-derbyshire-44100615"
-                },
-                {
-                    "title": "SES",
-                    "mainBody": "<b><size=24>SES</size></b>\nBuilt a detailed VR training simulation in Unity for aerospace technicians, focusing on the disassembly of a Trent XWB engine. Developed custom interaction and step based guided statemachine. This was one of the studio’s most technically ambitious projects.",
-                    "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/SES.png",
-                    "sourceUrlName": "Source",
-                    "sourceUrl": "",
-                    "extraUrlName": "Video",
-                    "extraUrl": "https://www.youtube.com/watch?v=He9TFbecYD8"
                 }
             ]
         },
