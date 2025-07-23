@@ -99,7 +99,7 @@
                     "mainBody": "<b><size=24>Image PPUM Setter</size></b>\nAdds an Editor tool which allows setting multiple images pixel per unit multiplier (PPUM) at the same time, with respective ratios to each other. This makes it so layered sliced images can be adjusted easily with matching roundness.",
                     "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/PPUM.png",
                     "sourceUrlName": "Source",
-                    "sourceUrl": "https://gitlab.com/-/snippets/4849509",
+                    "sourceUrl": "https://gitlab.com/-/snippets/4844712",
                     "extraUrlName": "Web App",
                     "extraUrl": ""
                 },
