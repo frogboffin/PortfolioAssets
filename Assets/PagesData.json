@@ -1,134 +1,134 @@
 {
-  "Pages": [
+  "pages": [
     {
-      "Name": "Work",
-      "Entries": [
+      "name": "Work",
+      "entries": [
         {
-          "Title": "Immerse App",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EImmerse App\u003C/size\u003E\u003C/b\u003E\nAt Immerse, I helped build the VR launcher app for Android, managing authentication, session tracking, and launching training apps with multiplayer and reporting features. I integrated UI, networking, and passthrough support. This launcher provided seamless access to both single and multiplayer sessions, supporting real-time interaction and data reporting.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20App.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": ""
+          "title": "Immerse App",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EImmerse App\u003C/size\u003E\u003C/b\u003E\nAt Immerse, I helped build the VR launcher app for Android, managing authentication, session tracking, and launching training apps with multiplayer and reporting features. I integrated UI, networking, and passthrough support. This launcher provided seamless access to both single and multiplayer sessions, supporting real-time interaction and data reporting.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20App.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "",
+          "extraUrlName": "Web App",
+          "extraUrl": ""
         },
         {
-          "Title": "ImmerseSDK",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EImmerse SDK\u003C/size\u003E\u003C/b\u003E\nI contributed significantly to the development of the ImmerseSDK, creating Unity packages and tools that streamlined app development. This included a UI theming package for polished interfaces, multiplayer features to synchronize interactions and UI across users, and reporting systems to track app usage. These tools were used on 40\u002B projects, allowing rapid development and delivery.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": ""
+          "title": "ImmerseSDK",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EImmerse SDK\u003C/size\u003E\u003C/b\u003E\nI contributed significantly to the development of the ImmerseSDK, creating Unity packages and tools that streamlined app development. This included a UI theming package for polished interfaces, multiplayer features to synchronize interactions and UI across users, and reporting systems to track app usage. These tools were used on 40\u002B projects, allowing rapid development and delivery.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20SDK.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "",
+          "extraUrlName": "Web App",
+          "extraUrl": ""
         },
         {
-          "Title": "Made in Derby",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EMade in Derby\u003C/size\u003E\u003C/b\u003E\nAt Bloc Digital, I developed Made in Derby, a location-based AR app for iOS and Android. Using Vuforia for marker tracking in Unity, the app let users scan city landmarks to view animated 3D statues and learn their history. I handled the entire dev cycle, from setup to appstore deployment.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Made%20in%20Derby.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "",
-          "ExtraUrlName": "News",
-          "ExtraUrl": "https://www.bbc.co.uk/news/uk-england-derbyshire-44100615"
+          "title": "Made in Derby",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EMade in Derby\u003C/size\u003E\u003C/b\u003E\nAt Bloc Digital, I developed Made in Derby, a location-based AR app for iOS and Android. Using Vuforia for marker tracking in Unity, the app let users scan city landmarks to view animated 3D statues and learn their history. I handled the entire dev cycle, from setup to appstore deployment.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Made%20in%20Derby.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "",
+          "extraUrlName": "News",
+          "extraUrl": "https://www.bbc.co.uk/news/uk-england-derbyshire-44100615"
         },
         {
-          "Title": "SES",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003ESES\u003C/size\u003E\u003C/b\u003E\nBuilt a detailed VR training simulation in Unity for aerospace technicians, focusing on the disassembly of a Trent XWB engine. Developed custom interaction and step based guided statemachine. This was one of the studio\u2019s most technically ambitious projects.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/SES.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "",
-          "ExtraUrlName": "Video",
-          "ExtraUrl": "https://www.youtube.com/watch?v=He9TFbecYD8"
+          "title": "SES",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003ESES\u003C/size\u003E\u003C/b\u003E\nBuilt a detailed VR training simulation in Unity for aerospace technicians, focusing on the disassembly of a Trent XWB engine. Developed custom interaction and step based guided statemachine. This was one of the studio\u2019s most technically ambitious projects.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/SES.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "",
+          "extraUrlName": "Video",
+          "extraUrl": "https://www.youtube.com/watch?v=He9TFbecYD8"
         }
       ]
     },
     {
-      "Name": "Projects",
-      "Entries": [
+      "name": "Projects",
+      "entries": [
         {
-          "Title": "Pelago",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EPelago Gen v3\u003C/size\u003E\u003C/b\u003E: A fast seeded terrain generator\nThe current version uses a random walk variation to generate a heightmap and applies it to a terrain.  Created a custom URP shader for the terrain using hlsl programming.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Pelago.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/frogboffin/TileGen",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": "https://frogboffin.gitlab.io/TileGen"
+          "title": "Pelago",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EPelago Gen v3\u003C/size\u003E\u003C/b\u003E: A fast seeded terrain generator\nThe current version uses a random walk variation to generate a heightmap and applies it to a terrain.  Created a custom URP shader for the terrain using hlsl programming.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Pelago.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/frogboffin/TileGen",
+          "extraUrlName": "Web App",
+          "extraUrl": "https://frogboffin.gitlab.io/TileGen"
         },
         {
-          "Title": "Flip",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EFlip\u003C/size\u003E\u003C/b\u003E: A small personal game currently in development\nA side scrolling platformer with pinball flair! When a sneaky crocodile steals Flippy\u0027s birthday cake, he hops beyond the pond to get it back. Currently exploring 2d sprite shapes and the new unity input package.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Flip.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/frogboffin/Flip",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": ""
+          "title": "Flip",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EFlip\u003C/size\u003E\u003C/b\u003E: A small personal game currently in development\nA side scrolling platformer with pinball flair! When a sneaky crocodile steals Flippy\u0027s birthday cake, he hops beyond the pond to get it back. Currently exploring 2d sprite shapes and the new unity input package.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Flip.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/frogboffin/Flip",
+          "extraUrlName": "Web App",
+          "extraUrl": ""
         },
         {
-          "Title": "Climb",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EClimb\u003C/size\u003E\u003C/b\u003E: An Unreal Engine 4 team project at Derby University.\nMy contributions to the project include developing the character controller, including the ability to swap abilities, ledge grabbing and grapple hook behaviours in C\u002B\u002B. The game was shown during the 2017 University of Derby Games Expo, and won the Technical Achievement award for that year.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Climb.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/frogboffin/Eros",
-          "ExtraUrlName": "Video",
-          "ExtraUrl": "https://youtu.be/qmYQPJuhPok"
+          "title": "Climb",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EClimb\u003C/size\u003E\u003C/b\u003E: An Unreal Engine 4 team project at Derby University.\nMy contributions to the project include developing the character controller, including the ability to swap abilities, ledge grabbing and grapple hook behaviours in C\u002B\u002B. The game was shown during the 2017 University of Derby Games Expo, and won the Technical Achievement award for that year.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Climb.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/frogboffin/Eros",
+          "extraUrlName": "Video",
+          "extraUrl": "https://youtu.be/qmYQPJuhPok"
         },
         {
-          "Title": "Gachapon",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EGachapon \u0026 Goblins\u003C/size\u003E\u003C/b\u003E: A 2022 GMTK gamejam entry\nCodeveloped over 2 days with close friends. The theme of the gamejam was \u0027Roll of the Dice\u0027. Gachapon \u0026 Goblins is a game of tactical risk and probability. Each round you can buy dice, which can then be used to battle, but you only get one shot to attack, so pick your dice wisely!",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gachapon.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/frogboffin/gachapon-and-goblins",
-          "ExtraUrlName": "Play",
-          "ExtraUrl": "https://phantombadger.itch.io/gachapon-goblins"
+          "title": "Gachapon",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EGachapon \u0026 Goblins\u003C/size\u003E\u003C/b\u003E: A 2022 GMTK gamejam entry\nCodeveloped over 2 days with close friends. The theme of the gamejam was \u0027Roll of the Dice\u0027. Gachapon \u0026 Goblins is a game of tactical risk and probability. Each round you can buy dice, which can then be used to battle, but you only get one shot to attack, so pick your dice wisely!",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gachapon.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/frogboffin/gachapon-and-goblins",
+          "extraUrlName": "Play",
+          "extraUrl": "https://phantombadger.itch.io/gachapon-goblins"
         },
         {
-          "Title": "Portfolio",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EPortfolio\u003C/size\u003E\u003C/b\u003E: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site cleanly animates content in based on its position in the viewrect or the current scroll position.\nContent is loaded at runtime from an external JSON, allowing the site to be updated without rebuilding.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Portfolio.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/frogboffin/portfolio",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": "https://www.pcuffley.co.uk/"
+          "title": "Portfolio",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EPortfolio\u003C/size\u003E\u003C/b\u003E: Unity webgl website\nThis website was built using Unity 6 and hosted via Gitlab Pages. The site cleanly animates content in based on its position in the viewrect or the current scroll position.\nContent is loaded at runtime from an external JSON, allowing the site to be updated without rebuilding.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Portfolio.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/frogboffin/portfolio",
+          "extraUrlName": "Web App",
+          "extraUrl": "https://www.pcuffley.co.uk/"
         }
       ]
     },
     {
-      "Name": "Snippets",
-      "Entries": [
+      "name": "Snippets",
+      "entries": [
         {
-          "Title": "PPUM Image",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EImage PPUM Setter\u003C/size\u003E\u003C/b\u003E\nAdds an Editor tool which allows setting multiple images pixel per unit multiplier (PPUM) at the same time, with respective ratios to each other. This makes it so layered sliced images can be adjusted easily with matching roundness.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/PPUM.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/-/snippets/4844712",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": ""
+          "title": "PPUM Image",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EImage PPUM Setter\u003C/size\u003E\u003C/b\u003E\nAdds an Editor tool which allows setting multiple images pixel per unit multiplier (PPUM) at the same time, with respective ratios to each other. This makes it so layered sliced images can be adjusted easily with matching roundness.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/PPUM.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/-/snippets/4844712",
+          "extraUrlName": "Web App",
+          "extraUrl": ""
         },
         {
-          "Title": "Floating UI Handle",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EFloating UI Handle\u003C/size\u003E\u003C/b\u003E\nA floating UI handle for use with the XR Interactor Toolkit.\nAllows a UI gameobject to be grabbable and always face the user head. Useful for positioning UI in VR.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/FloatingUI.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/-/snippets/4844406",
-          "ExtraUrlName": "Web App",
-          "ExtraUrl": ""
+          "title": "Floating UI Handle",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EFloating UI Handle\u003C/size\u003E\u003C/b\u003E\nA floating UI handle for use with the XR Interactor Toolkit.\nAllows a UI gameobject to be grabbable and always face the user head. Useful for positioning UI in VR.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/FloatingUI.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/-/snippets/4844406",
+          "extraUrlName": "Web App",
+          "extraUrl": ""
         },
         {
-          "Title": "UI Mesh Gradient",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EUI Mesh Gradient\u003C/size\u003E\u003C/b\u003E\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gradient.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/-/snippets/4844692",
-          "ExtraUrlName": "Video",
-          "ExtraUrl": ""
+          "title": "UI Mesh Gradient",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EUI Mesh Gradient\u003C/size\u003E\u003C/b\u003E\nEmploys the VertexHelper and BaseMeshEffect class to add additional vertices to an image to allow gradients to be applied without shaders or textures. Can be used with regular and sliced images, preserving UVs.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Gradient.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/-/snippets/4844692",
+          "extraUrlName": "Video",
+          "extraUrl": ""
         },
         {
-          "Title": "Audio To Haptic",
-          "MainBody": "\u003Cb\u003E\u003Csize=24\u003EAudio to Haptics\u003C/size\u003E\u003C/b\u003E\nThis component converts audio into realtime haptic feedback for XR devices. It listens to an AudioSource, samples the output, and sends pulses to the appropriate XRNode. Its an easy way to create engaging haptics in VR apps, and can probably be easily converted to work on mobile devices. There is an accompanying simple editor script which enables and disables controls contextually.",
-          "ImageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/AudioToHaptic.png",
-          "SourceUrlName": "Source",
-          "SourceUrl": "https://gitlab.com/-/snippets/4849509",
-          "ExtraUrlName": "Play",
-          "ExtraUrl": ""
+          "title": "Audio To Haptic",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EAudio to Haptics\u003C/size\u003E\u003C/b\u003E\nThis component converts audio into realtime haptic feedback for XR devices. It listens to an AudioSource, samples the output, and sends pulses to the appropriate XRNode. Its an easy way to create engaging haptics in VR apps, and can probably be easily converted to work on mobile devices. There is an accompanying simple editor script which enables and disables controls contextually.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/AudioToHaptic.png",
+          "sourceUrlName": "Source",
+          "sourceUrl": "https://gitlab.com/-/snippets/4849509",
+          "extraUrlName": "Play",
+          "extraUrl": ""
         }
       ]
     }
