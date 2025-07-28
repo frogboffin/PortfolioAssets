@@ -38,6 +38,15 @@
           "sourceUrl": "",
           "extraUrlName": "Video",
           "extraUrl": "https://www.youtube.com/watch?v=He9TFbecYD8"
+        },
+        {
+          "title": "Immerse UI",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EImmerse UI\u003C/size\u003E\u003C/b\u003E\nWorking with a designer at Immerse, I planned and developed the Immerse UI package. This package was used in all Immerse projects and reduced project development time across the board. The package included custom components such as a VR keyboard, subtitles, multiplayer page system, popups, and a theming system.",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/Immerse%20UI.png",
+          "sourceUrlName": "",
+          "sourceUrl": "",
+          "extraUrlName": "",
+          "extraUrl": ""
         }
       ]
     },
