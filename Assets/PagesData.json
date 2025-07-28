@@ -97,6 +97,15 @@
           "sourceUrl": "https://gitlab.com/frogboffin/portfolio",
           "extraUrlName": "Web App",
           "extraUrl": "https://www.pcuffley.co.uk/"
+        },
+        {
+          "title": "Portfolio builder",
+          "mainBody": "\u003Cb\u003E\u003Csize=24\u003EPortfolio builder\u003C/size\u003E\u003C/b\u003E\r\nI needed a way to quickly add and update content on my portfolio site, so I built a lightweight, portable app using WPF to support this. The app can load and store JSON locally as well as load the live site JSON when needed. ",
+          "imageUrl": "https://frogboffin.github.io/PortfolioAssets/Assets/Screenshots/PortfolioBuilder.png",
+          "sourceUrlName": "",
+          "sourceUrl": "",
+          "extraUrlName": "",
+          "extraUrl": ""
         }
       ]
     },
