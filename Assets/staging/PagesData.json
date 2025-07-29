@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "name": "Staging",
+      "entries":[]
+    },
+    {
       "name": "Work",
       "entries": [
         {
